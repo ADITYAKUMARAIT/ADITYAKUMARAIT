@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya kumar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer </h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumarait&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumarait" /> </p>
